@@ -1,1 +1,3 @@
 # dominodBlog
+
+github blog
