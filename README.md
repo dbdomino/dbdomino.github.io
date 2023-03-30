@@ -1,3 +1,0 @@
-# dominodBlog
-
-github blog
