@@ -14,9 +14,9 @@
 * /_sass      : CSS 조각파일 저장 폴더
 * /_site      : Jekyll 빌드 생성 결과물 폴더(실제 GitPages에서 WEB으로 보여지는 산출물)
 * /.github    :  GitHub 연동을 위한 상태정보가 담긴 폴더
-* /.jekyll-cache
+* /.jekyll-cache ㅣ git블로그 캐시 저장소
 * /assets     : 이미지, CSS 등을 저장 폴더
-* /pages
+* /pages      : 정적인 페이지 보관소
 -------
 _config.yml
 
