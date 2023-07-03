@@ -18,19 +18,17 @@
 * /assets     : 이미지, CSS 등을 저장 폴더
 * /pages      : 정적인 페이지 보관소
 -------
-_config.yml
+_config.yml : 가장 중요한 환경변수 설정 파일 ☆☆☆☆
 
 .gitignore : github commit 금지 리스트 설정 파일
 
 404.html : 404 Not Found Page(블로그에 없는 페이지 요청 시 등장하는 페이지)
 
-favicon.ico
+favicon.ico : 블로그 접속 시 브라우저 주소창에 표시되는 대표 아이콘
 
-favicon.psd
+gemfile : 필요한 레일 기반 라이브러리를 자동으로 설치하고 싶을 때 명시하는 설정 파일
 
-gemfile
-
-gemfile.lock
+gemfile.lock : Gemfile에 기록한 레일 기반 라이브러리를 설치 후 기록하는 파일(중복설치 방지)
 
 home.html : 블로그 최초 접속 페이지
 
